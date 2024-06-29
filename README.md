@@ -30,7 +30,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/deshakil/EmployeeAttritionModel.git
+   git clone https://github.com/deshakil/EmployeeAttrition.git
    cd <Your Project Directory>
 
 2. Install Dependencies
